@@ -1,4 +1,4 @@
-#  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BahnschriftLight&vCenter=true&color=%2303FC30&width=450&lines=✨Hi+There+%F0%9F%91%8B%2C+This+is+Jay!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+(%E2%98%95%F0%9F%92%BB%F0%9F%92%A1%E2%9D%A4%EF%B8%8F))
+#  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=BahnschriftLight&vCenter=true&color=%2303FC30&width=450&lines=✨Hi+There+%F0%9F%91%8B%2C+This+is+Jay!+👨‍💻+💤☕️)
 
 # 💫 About Me:
 👨‍🎓 I'm a Computer Science Engineering Student<br>🎯 I'm a Python Developer and Machine Learning Enthusiast<br>🔭 I’m currently working on Object Detection Models<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about anything, I am happy to help<br>
